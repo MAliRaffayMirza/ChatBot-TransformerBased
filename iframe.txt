@@ -1,0 +1,59 @@
+<center><h1 style="font-family:calibri; color:#00ffff;">Ali's Chat Assistant</h1><br></center><table style='width:100%; padding:15px;'><tr><td width ="50%"><div style="
+      padding: 30px;
+      font-size: 20px;
+      background-color: #fafafa;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 0;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 15px;
+      font-size: 24px;
+      color:black;
+      border: 2px solid black;
+      font-family: calibri;
+      min-height: 100px;
+      max-width: 300px;
+    ">What To Do After Registration For Login?</div></td><td width ="50%"></td></tr><tr><td width ="50%"></td><td width ="50%" align=right><div style="
+      padding: 30px;
+      font-size: 20px;
+      background-color: #fafafa;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 0;
+      color:black;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 15px;
+      font-size: 24px;
+      border: 2px solid black;
+      font-family: calibri;
+      min-height: 100px;
+      max-width: 300px;
+    ">After registering, you can log in by visiting the Omega Workers website and clicking the "Log In" or "Sign In" button. Enter your email and password or use your connected Google or Facebook account if you signed up that way.
+</div></td></tr></table><table style='width:100%; padding:15px;'><tr><td width ="50%"><div style="
+      padding: 30px;
+      font-size: 20px;
+      background-color: #fafafa;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 0;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 15px;
+      font-size: 24px;
+      color:black;
+      border: 2px solid black;
+      font-family: calibri;
+      min-height: 100px;
+      max-width: 300px;
+    ">How Much Can I Earn From Omega Workers?</div></td><td width ="50%"></td></tr><tr><td width ="50%"></td><td width ="50%" align=right><div style="
+      padding: 30px;
+      font-size: 20px;
+      background-color: #fafafa;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 0;
+      color:black;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 15px;
+      font-size: 24px;
+      border: 2px solid black;
+      font-family: calibri;
+      min-height: 100px;
+      max-width: 300px;
+    ">Yes, you can work full time on Omega Workers. Many freelancers use it as their main source of income, focusing on multiple projects or long-term contracts.
+</div></td></tr></table>

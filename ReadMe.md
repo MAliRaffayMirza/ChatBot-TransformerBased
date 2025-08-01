@@ -19,15 +19,20 @@ A simple AI-powered chatbot using Flask and Sentence Transformers. It responds t
 > ⚠️ Deployment not available due to resource limits.  
 > 👉 **Screenshots and local demo included below.**
 
-![Screenshot 1](screenshots/demo1.png)  
-![Screenshot 2](screenshots/demo2.png)
+![Screenshot 1](screenshots/1.png)  
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)  
+![Screenshot 4](screenshots/4.png)
+![Screenshot 5](screenshots/5.png)  
+![Screenshot 6](screenshots/6.png)
+![Screenshot 7](screenshots/7.png)
 
 ---
 
 ## 🔧 Setup
 
 ```bash
-git clone https://github.com/yourusername/chat-assistant
+git clone https://github.com/MAliRaffayMirza/ChatBot-TransformerBased/
 cd chat-assistant
 pip install -r requirements.txt
 python chat.py
@@ -57,11 +62,13 @@ sentence-transformers
 ├── requirements.txt
 ├── Procfile
 ├── Screenshots
-    ├── screenshot1
-    ├── screenshot2
-    ├── screenshot3
-    ├── screenshot4
-    └── screenshot5
+    ├── 1
+    ├── 2
+    ├── 3
+    ├── 4
+    ├── 5
+    ├── 6
+    └── 7
 └── README.md
 ```
 
